@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Valerio Maglianella
-I am from Italy and I guess not your typical coder! I am actually a Cognitive Neuroscientist (and Psychologist) findiing my place in the AI world!
+I am from Italy and I guess not your typical coder! I am actually a Cognitive Neuroscientist (and Psychologist) finding my place in the AI world!
 
 Besides open online courses, I attended an Advanced School in AI (350h+300h) and a Data Analyst course (240h) that allowed me to build a good foundation of Data Science and ML, applied to the domain-specific of brain/mind (computational neuroscience), but also domain-general. 
 
